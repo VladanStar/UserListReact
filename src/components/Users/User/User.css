@@ -1,0 +1,27 @@
+.User__wrapper {
+    display: flex;
+    border: 1px solid #fb5151;
+    margin-top: 5px;
+    border-radius: 3px;
+}
+
+.User__img {
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    margin: 10px 15px 0px 10px;
+}
+
+.User__info p {
+    margin: 7px 0px 0px 0px;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.User__info p:first-child {
+    margin-top: 10px;
+}
+
+.User__info p:last-child {
+    margin-bottom: 10px;
+}
